@@ -16,7 +16,7 @@ void	ft_putchar(char c)
 	write(1, &c, 1);
 }
 
-/*
+
 int	main(void)
 {
 	char	m;
@@ -25,4 +25,4 @@ int	main(void)
 	ft_putchar(m);
 	return (0);
 }
-*/
+
